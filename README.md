@@ -1,7 +1,7 @@
-# crepe-steelpan
+# steelpan-pitch
 
 ---
-A Crepe-based pitch detector for steelpan audio.
+Research into pitch detection methods for the steelpan.
 
 ---
 ## References
