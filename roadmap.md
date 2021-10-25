@@ -48,6 +48,7 @@ This portion of the project is to investigate the use of Crépe and Crépe-like 
       - Check early stopping comparator (set to minimize)
       - Set save_weights_only to False (save whole model)
       - Make sure callbacks are working
+  - Redo do training data result visualizations
 - Training Crepe network from scratch
   - Create a notebook for this
 - Modifications to Crepe
