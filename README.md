@@ -4,6 +4,13 @@
 Research into pitch detection methods for the steelpan.
 
 ---
+# TODO
+
+- Split this off into a private repo?
+- Make a clean version of Steelpan-Pitch that aligns with NIME paper
+- Add NIME citation
+
+---
 ## References
 
 > [CREPE: A Convolutional Representation for Pitch Estimation](https://arxiv.org/abs/1802.06182)<br>
